@@ -1,0 +1,14 @@
+D:\HomeWork13\UserInputProcessor\bin\Debug\net9.0\UserInputProcessor.exe
+D:\HomeWork13\UserInputProcessor\bin\Debug\net9.0\UserInputProcessor.deps.json
+D:\HomeWork13\UserInputProcessor\bin\Debug\net9.0\UserInputProcessor.runtimeconfig.json
+D:\HomeWork13\UserInputProcessor\bin\Debug\net9.0\UserInputProcessor.dll
+D:\HomeWork13\UserInputProcessor\bin\Debug\net9.0\UserInputProcessor.pdb
+D:\HomeWork13\UserInputProcessor\obj\Debug\net9.0\UserInputProcessor.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork13\UserInputProcessor\obj\Debug\net9.0\UserInputProcessor.AssemblyInfoInputs.cache
+D:\HomeWork13\UserInputProcessor\obj\Debug\net9.0\UserInputProcessor.AssemblyInfo.cs
+D:\HomeWork13\UserInputProcessor\obj\Debug\net9.0\UserInputProcessor.csproj.CoreCompileInputs.cache
+D:\HomeWork13\UserInputProcessor\obj\Debug\net9.0\UserInputProcessor.dll
+D:\HomeWork13\UserInputProcessor\obj\Debug\net9.0\refint\UserInputProcessor.dll
+D:\HomeWork13\UserInputProcessor\obj\Debug\net9.0\UserInputProcessor.pdb
+D:\HomeWork13\UserInputProcessor\obj\Debug\net9.0\UserInputProcessor.genruntimeconfig.cache
+D:\HomeWork13\UserInputProcessor\obj\Debug\net9.0\ref\UserInputProcessor.dll
